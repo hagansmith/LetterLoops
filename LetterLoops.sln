@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterLoops", "LetterLoops\LetterLoops.csproj", "{06B3BA14-CFF6-47BB-9786-C248C54C44C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06B3BA14-CFF6-47BB-9786-C248C54C44C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B3BA14-CFF6-47BB-9786-C248C54C44C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B3BA14-CFF6-47BB-9786-C248C54C44C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B3BA14-CFF6-47BB-9786-C248C54C44C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C50840B4-3B22-470F-B108-6B52E9C43AF4}
+	EndGlobalSection
+EndGlobal
