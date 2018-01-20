@@ -16,9 +16,9 @@ namespace LetterLoops
 
             string input = Console.ReadLine();
             string builtString = "";
+
             for (int i = 0;  i < input.Length; i++)
             {
-                Console.WriteLine(input.Length);
                 var character = input[i];
                 string toUpper = character.ToString().ToUpper();
                 if (i == 0)
@@ -37,10 +37,6 @@ namespace LetterLoops
                 }
             }
             Console.WriteLine(builtString);
-
-
-
-
             Console.ReadLine();
         }
     }
